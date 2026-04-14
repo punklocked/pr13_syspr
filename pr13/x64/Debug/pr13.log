@@ -1,0 +1,4 @@
+﻿  pr13.cpp
+C:\Users\Eblan\Desktop\pr13\pr13\pr13.cpp(250,66): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Eblan\Desktop\pr13\pr13\pr13.cpp(296,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pr13.vcxproj -> C:\Users\Eblan\Desktop\pr13\x64\Debug\pr13.exe
